@@ -11,13 +11,6 @@ namespace DentalCare.Utilities
 {
     public class PDFOperator
     {
-        //public static void ConvertHTMLtoPDF()
-        //{
-        //    HtmlLoadOptions options = new HtmlLoadOptions();
-        //    Document pdfDocument = new Document()_dataDir + "test.html", options);
-        //    pdfDocument.Save(_dataDir + "html_test.PDF");
-        //}
-
         private static object LockObject = new object();
         public static bool CreatePDFFile(string xml, string xsltTemplatePath, string pdfFilePath)
         {
