@@ -24,7 +24,7 @@ Without the header or invalid token value, you will get 401 Unauthorized error.
 
 ## Outline of Architecture
 
-![Architecture Diagram](https://ArchitectureDiagram.png)
+![Architecture Diagram](https://github.com/thisistrue1/DentalCare/blob/main/ArchitectureDiagram.png)
 
 ## Third Party Libraries
 - Entity Framework 6.4.4
